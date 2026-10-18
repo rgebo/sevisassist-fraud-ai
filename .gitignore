@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+sevisassist_app/.dart_tool/
+sevisassist_app/build/*
+!sevisassist_app/build/web/
